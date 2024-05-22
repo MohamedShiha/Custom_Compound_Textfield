@@ -60,8 +60,8 @@
 				53D77F872BFE9B6400DBE0FE /* SceneDelegate.swift */,
 				53D77F892BFE9B6400DBE0FE /* ViewController.swift */,
 				53D77F8B2BFE9B6400DBE0FE /* Main.storyboard */,
-				53D77F8E2BFE9B6700DBE0FE /* Assets.xcassets */,
 				53D77F902BFE9B6700DBE0FE /* LaunchScreen.storyboard */,
+				53D77F8E2BFE9B6700DBE0FE /* Assets.xcassets */,
 				53D77F932BFE9B6700DBE0FE /* Info.plist */,
 			);
 			path = Compound_Textfield;
